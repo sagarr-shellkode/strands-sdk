@@ -1,6 +1,6 @@
 ---
 name: strands-sdk-metrics
-description: Use when tracking token usage per invocation, measuring latency, publishing agent metrics to CloudWatch, enabling OpenTelemetry tracing, or understanding cost per agent call. Triggers on: metrics, token usage, latency, CloudWatch, OpenTelemetry, trace, observability, cost tracking, result.usage.
+description: "Use when tracking token usage per invocation, measuring latency, publishing agent metrics to CloudWatch, enabling OpenTelemetry tracing, or understanding cost per agent call. Triggers on: metrics, token usage, latency, CloudWatch, OpenTelemetry, trace, observability, cost tracking, result.usage."
 ---
 
 # Metrics and Observability — Strands SDK

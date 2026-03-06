@@ -1,6 +1,6 @@
 ---
 name: strands-sdk-best-practices
-description: Use when applying Strands SDK production patterns, implementing error handling and retries around agent calls, managing API keys securely, selecting the right model for a use case, structuring agent code, or reviewing Strands code for quality issues. Triggers on: best practice, production, error handling, retry, security, model selection, agent structure, async, reuse agent.
+description: "Use when applying Strands SDK production patterns, implementing error handling and retries around agent calls, managing API keys securely, selecting the right model for a use case, structuring agent code, or reviewing Strands code for quality issues. Triggers on: best practice, production, error handling, retry, security, model selection, agent structure, async, reuse agent."
 ---
 
 # Best Practices — Strands SDK

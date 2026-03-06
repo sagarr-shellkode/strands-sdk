@@ -1,6 +1,6 @@
 ---
 name: strands-sdk-troubleshooting
-description: Use when debugging Strands SDK errors, fixing AccessDeniedException or ValidationException from Bedrock, resolving ModuleNotFoundError, agent not calling tools, empty responses, ThrottlingException, context limit exceeded, or any unexpected agent behavior. Triggers on: error, exception, not working, debug, AccessDeniedException, ValidationException, ThrottlingException, ModuleNotFoundError, agent broken.
+description: "Use when debugging Strands SDK errors, fixing AccessDeniedException or ValidationException from Bedrock, resolving ModuleNotFoundError, agent not calling tools, empty responses, ThrottlingException, context limit exceeded, or any unexpected agent behavior. Triggers on: error, exception, not working, debug, AccessDeniedException, ValidationException, ThrottlingException, ModuleNotFoundError, agent broken."
 ---
 
 # Troubleshooting — Strands SDK

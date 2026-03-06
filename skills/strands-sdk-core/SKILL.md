@@ -1,6 +1,6 @@
 ---
 name: strands-sdk-core
-description: Use when working with Strands-agents SDK for the first time, importing Agent or BedrockModel, initializing an agent, invoking an agent with a prompt, or asking about basic agent setup. Triggers on: from strands import Agent, BedrockModel, strands-agents, agent initialization, basic invocation.
+description: "Use when working with Strands-agents SDK for the first time, importing Agent or BedrockModel, initializing an agent, invoking an agent with a prompt, or asking about basic agent setup. Triggers on: from strands import Agent, BedrockModel, strands-agents, agent initialization, basic invocation."
 ---
 
 # Core — Strands SDK

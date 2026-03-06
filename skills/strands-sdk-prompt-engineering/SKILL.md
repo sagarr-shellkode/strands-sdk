@@ -1,6 +1,6 @@
 ---
 name: strands-sdk-prompt-engineering
-description: Use when writing effective system prompts for Strands agents, applying few-shot examples, chain-of-thought reasoning, output formatting instructions, controlling agent persona, or improving response quality and consistency. Triggers on: system prompt, few-shot, chain of thought, prompt quality, output format, agent persona, prompt template.
+description: "Use when writing effective system prompts for Strands agents, applying few-shot examples, chain-of-thought reasoning, output formatting instructions, controlling agent persona, or improving response quality and consistency. Triggers on: system prompt, few-shot, chain of thought, prompt quality, output format, agent persona, prompt template."
 ---
 
 # Prompt Engineering — Strands SDK

@@ -1,6 +1,6 @@
 ---
 name: strands-sdk-model-providers
-description: Use when switching model providers in Strands, using Anthropic API directly instead of Bedrock, configuring LiteLLM for OpenAI or Gemini, creating a custom model provider, or comparing BedrockModel vs AnthropicModel vs LiteLLMModel. Triggers on: AnthropicModel, LiteLLMModel, model provider, custom model, ANTHROPIC_API_KEY, provider config, model parameters.
+description: "Use when switching model providers in Strands, using Anthropic API directly instead of Bedrock, configuring LiteLLM for OpenAI or Gemini, creating a custom model provider, or comparing BedrockModel vs AnthropicModel vs LiteLLMModel. Triggers on: AnthropicModel, LiteLLMModel, model provider, custom model, ANTHROPIC_API_KEY, provider config, model parameters."
 ---
 
 # Model Providers — Strands SDK

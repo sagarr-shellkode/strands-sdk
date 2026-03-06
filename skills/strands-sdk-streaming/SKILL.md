@@ -1,6 +1,6 @@
 ---
 name: strands-sdk-streaming
-description: Use when streaming agent responses token-by-token, handling StreamEvent callbacks, printing output as it arrives, integrating Strands streaming into a WebSocket or HTTP SSE endpoint, or using async generator response iteration. Triggers on: stream, stream_async, StreamEvent, callback_handler, yield tokens, real-time output, SSE.
+description: "Use when streaming agent responses token-by-token, handling StreamEvent callbacks, printing output as it arrives, integrating Strands streaming into a WebSocket or HTTP SSE endpoint, or using async generator response iteration. Triggers on: stream, stream_async, StreamEvent, callback_handler, yield tokens, real-time output, SSE."
 ---
 
 # Streaming — Strands SDK

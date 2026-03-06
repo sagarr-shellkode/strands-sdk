@@ -1,6 +1,6 @@
 ---
 name: strands-sdk-conversation
-description: Use when managing multi-turn conversations, persisting chat history across sessions, resetting agent context, using ConversationManager or SlidingWindowConversationManager, or controlling how many turns of history the agent sees. Triggers on: conversation_manager, chat history, multi-turn, reset conversation, context window, SlidingWindowConversationManager.
+description: "Use when managing multi-turn conversations, persisting chat history across sessions, resetting agent context, using ConversationManager or SlidingWindowConversationManager, or controlling how many turns of history the agent sees. Triggers on: conversation_manager, chat history, multi-turn, reset conversation, context window, SlidingWindowConversationManager."
 ---
 
 # Conversation Management — Strands SDK

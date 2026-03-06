@@ -1,6 +1,6 @@
 ---
 name: strands-sdk-multiagent
-description: Use when orchestrating multiple Strands agents, deciding between A2A, swarms, or agents-as-tools patterns, understanding multi-agent architecture options, or decomposing complex tasks across specialized agents. Triggers on: multiple agents, orchestrator, sub-agent, agent coordination, multi-agent architecture, agent collaboration.
+description: "Use when orchestrating multiple Strands agents, deciding between A2A, swarms, or agents-as-tools patterns, understanding multi-agent architecture options, or decomposing complex tasks across specialized agents. Triggers on: multiple agents, orchestrator, sub-agent, agent coordination, multi-agent architecture, agent collaboration."
 ---
 
 # Multi-Agent Orchestration — Strands SDK

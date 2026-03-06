@@ -1,6 +1,6 @@
 ---
 name: strands-sdk-hooks
-description: Use when adding lifecycle hooks to a Strands agent, running code before or after LLM calls, logging agent events, intercepting tool use, implementing custom middleware, or mutating requests before they reach the model. Triggers on: hooks, AgentHook, on_tool_use, on_llm_call, lifecycle, before_invoke, after_invoke, middleware.
+description: "Use when adding lifecycle hooks to a Strands agent, running code before or after LLM calls, logging agent events, intercepting tool use, implementing custom middleware, or mutating requests before they reach the model. Triggers on: hooks, AgentHook, on_tool_use, on_llm_call, lifecycle, before_invoke, after_invoke, middleware."
 ---
 
 # Hooks — Strands SDK

@@ -1,6 +1,6 @@
 ---
 name: strands-sdk-agents-as-tools
-description: Use when wrapping a Strands agent as a callable @tool for another agent, building hierarchical agent systems where an orchestrator delegates to specialist sub-agents, composing agents into a pipeline, or creating dynamic specialist agents on demand. Triggers on: agent as tool, sub-agent, specialist agent, nested agent, delegate to agent, hierarchical agents.
+description: "Use when wrapping a Strands agent as a callable @tool for another agent, building hierarchical agent systems where an orchestrator delegates to specialist sub-agents, composing agents into a pipeline, or creating dynamic specialist agents on demand. Triggers on: agent as tool, sub-agent, specialist agent, nested agent, delegate to agent, hierarchical agents."
 ---
 
 # Agents as Tools — Strands SDK

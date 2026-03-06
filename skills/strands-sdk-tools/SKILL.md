@@ -1,6 +1,6 @@
 ---
 name: strands-sdk-tools
-description: Use when defining custom tools with @tool decorator, using Strands built-in tools, integrating MCP tools with an agent, passing tools to Agent constructor, or debugging tool call failures. Triggers on: @tool, use_aws, file_read, http_request, tool not found, MCP, tool schema, built-in tools.
+description: "Use when defining custom tools with @tool decorator, using Strands built-in tools, integrating MCP tools with an agent, passing tools to Agent constructor, or debugging tool call failures. Triggers on: @tool, use_aws, file_read, http_request, tool not found, MCP, tool schema, built-in tools."
 ---
 
 # Tools — Strands SDK

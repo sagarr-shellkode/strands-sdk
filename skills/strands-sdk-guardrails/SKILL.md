@@ -1,6 +1,6 @@
 ---
 name: strands-sdk-guardrails
-description: Use when adding content filtering to a Strands agent, using AWS Bedrock Guardrails, blocking harmful inputs or outputs, implementing topic restrictions, PII redaction, or handling GuardrailBlockException. Triggers on: guardrail, content filter, safety, GuardrailConfig, BLOCKED, PII, topic denial, word filter.
+description: "Use when adding content filtering to a Strands agent, using AWS Bedrock Guardrails, blocking harmful inputs or outputs, implementing topic restrictions, PII redaction, or handling GuardrailBlockException. Triggers on: guardrail, content filter, safety, GuardrailConfig, BLOCKED, PII, topic denial, word filter."
 ---
 
 # Guardrails — Strands SDK

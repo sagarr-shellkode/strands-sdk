@@ -1,6 +1,6 @@
 ---
 name: strands-sdk-agent-swarms
-description: Use when running multiple Strands agents in parallel on the same or similar tasks, implementing fan-out/fan-in patterns, processing batches concurrently, or building swarm intelligence workflows with result aggregation. Triggers on: swarm, parallel agents, fan-out, asyncio.gather, batch processing, concurrent agents, fan-in synthesis.
+description: "Use when running multiple Strands agents in parallel on the same or similar tasks, implementing fan-out/fan-in patterns, processing batches concurrently, or building swarm intelligence workflows with result aggregation. Triggers on: swarm, parallel agents, fan-out, asyncio.gather, batch processing, concurrent agents, fan-in synthesis."
 ---
 
 # Agent Swarms — Strands SDK

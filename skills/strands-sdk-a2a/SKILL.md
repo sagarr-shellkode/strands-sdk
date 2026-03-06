@@ -1,6 +1,6 @@
 ---
 name: strands-sdk-a2a
-description: Use when implementing Agent-to-Agent (A2A) communication, having one Strands agent call another agent over HTTP, setting up A2AServer or AgentClient, or building peer-to-peer distributed agent workflows. Triggers on: A2A, agent-to-agent, AgentClient, A2AServer, agent endpoint, inter-agent communication.
+description: "Use when implementing Agent-to-Agent (A2A) communication, having one Strands agent call another agent over HTTP, setting up A2AServer or AgentClient, or building peer-to-peer distributed agent workflows. Triggers on: A2A, agent-to-agent, AgentClient, A2AServer, agent endpoint, inter-agent communication."
 ---
 
 # Agent-to-Agent (A2A) — Strands SDK

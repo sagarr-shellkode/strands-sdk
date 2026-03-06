@@ -1,6 +1,6 @@
 ---
 name: strands-sdk-prompt-caching
-description: Use when reducing token costs with prompt caching, using cache_point in messages, setting up caching with Bedrock or Anthropic models, checking cache hit metrics, or debugging why caching is not working. Triggers on: cache_point, prompt cache, CacheConfig, reduce cost, cache hit, cache_read_input_tokens.
+description: "Use when reducing token costs with prompt caching, using cache_point in messages, setting up caching with Bedrock or Anthropic models, checking cache hit metrics, or debugging why caching is not working. Triggers on: cache_point, prompt cache, CacheConfig, reduce cost, cache hit, cache_read_input_tokens."
 ---
 
 # Prompt Caching — Strands SDK
