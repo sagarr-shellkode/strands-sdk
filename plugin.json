@@ -1,0 +1,10 @@
+{
+  "name": "strands-sdk",
+  "description": "Comprehensive Strands-agents SDK reference for Claude Code — tools, hooks, multi-agent patterns (A2A, swarms, agents-as-tools), prompt caching, guardrails, model providers, metrics, prompt engineering, best practices, and troubleshooting",
+  "author": {
+    "name": "sagarr-shellkode",
+    "email": ""
+  },
+  "version": "1.0.0",
+  "license": "MIT"
+}
