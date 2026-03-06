@@ -1,0 +1,13 @@
+{
+  "name": "strands-sdk",
+  "description": "Comprehensive Strands-agents SDK reference for Claude Code — tools, hooks, multi-agent patterns (A2A, swarms, agents-as-tools), prompt caching, guardrails, model providers, metrics, prompt engineering, best practices, and troubleshooting",
+  "version": "1.0.0",
+  "author": {
+    "name": "sagarr-shellkode",
+    "url": "https://github.com/sagarr-shellkode"
+  },
+  "homepage": "https://github.com/sagarr-shellkode/strands-sdk",
+  "repository": "https://github.com/sagarr-shellkode/strands-sdk",
+  "license": "MIT",
+  "keywords": ["strands", "strands-agents", "aws", "bedrock", "llm", "agents", "multi-agent", "a2a", "swarms", "tools", "hooks", "guardrails", "prompt-caching"]
+}
